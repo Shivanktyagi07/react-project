@@ -10,7 +10,7 @@ To get started with these projects,
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/react-projects.git
+   git clone https://github.com/Shivanktyagi07/react-projects.git
 ## Resources
 
  - [React Official Document](https://legacy.reactjs.org/docs/getting-started.html)
