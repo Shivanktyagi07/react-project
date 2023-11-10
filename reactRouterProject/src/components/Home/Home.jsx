@@ -31,16 +31,18 @@ export default function Home() {
                     </div>
                 </div>
 
-                <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
+                <div className="absolute inset-0 w-full  sm:my-20 sm:pt-1 pt-12 h-full ">
+                    <img className="w-96" src="https://image.lexica.art/full_jpg/23a9e0a1-04ee-43ea-b652-d0293b348c5d" 
+                     style={{marginTop: "50px"}}
+                     alt="image1" />
                 </div>
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="image2" />
+                <img className="sm:w-96 w-48" src="https://image.lexica.art/full_jpg/bad91622-3f93-46c2-a50d-4ff297f5adc0" alt="image2" />
             </div>
 
-            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>
+            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">React Router Project</h1>
         </div>
     );
 }

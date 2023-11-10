@@ -7,7 +7,7 @@ export default function About() {
               <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                   <div className="md:5/12 lg:w-5/12">
                       <img
-                          src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
+                          src="https://image.lexica.art/full_jpg/69703bc6-92e4-4140-98c7-90f9868e3024"
                           alt="image"
                       />
                   </div>
@@ -16,13 +16,10 @@ export default function About() {
                           React development is carried out by passionate developers
                       </h2>
                       <p className="mt-6 text-gray-600">
-                          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
-                          accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                          aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
+                      Development is a dynamic process characterized by continuous growth and evolution. In the realm of technology and software, each development phase brings about innovation, improvement, and heightened capabilities. 
                       </p>
                       <p className="mt-4 text-gray-600">
-                          Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                          Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
+                      Whether it's web development, app development, or any other domain, the journey involves constant learning, adaptation to emerging technologies, and a commitment to delivering solutions that meet evolving needs.
                       </p>
                   </div>
               </div>
