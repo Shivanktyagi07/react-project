@@ -12,8 +12,7 @@ export default function Header() {
             // src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
             src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
             className="mr-3 h-12"
-            // style={{ height: '90px' }}
-
+            // style={{ height: '90px' }} 
             alt="Logo"
         />
                     </Link>
