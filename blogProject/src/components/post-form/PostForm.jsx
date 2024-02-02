@@ -46,7 +46,7 @@ function PostForm({post}) {
         }
     }
     }
-}
+
 const slugTransform = useCallback((value) => {
     if (value && typeof value === "string")
         return value
@@ -117,6 +117,6 @@ return (
         </div>
     </form>
 );
-
+            }            
 
 export default PostForm
